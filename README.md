@@ -2,6 +2,11 @@ Integrated Multi-Omics Analysis
 
 This repository contains notebooks for integrating and analyzing multi-omics data, specifically focusing on RNA-seq, ATAC-seq, and spatial transcriptomics datasets. The integration is performed using advanced computational methods to provide a comprehensive view of gene expression, chromatin accessibility, and spatial localization. The key steps and methods used across the notebooks are:
 
+- Melanoma Study using Perturb-CITE-Seq
+  - A combined therapeutic approach targeting COL1A1 and EIF4A for melanoma treatment.
+  - A multi-targeted strategy for aggressive melanoma, combining PRAME-targeted immunotherapy with PARP inhibitors and EMT/stemness pathway inhibitors.
+  - The complex interplay between CD274 (PD-L1), CD58, and CD9 in different immune microenvironments.
+  - The potential role of LY96 in immune evasion across multiple cancer types, including melanoma.
 - RNA-ATAC Integration with scVI
   - Integrated RNA-seq and ATAC-seq datasets using scVI to analyze gene expression and chromatin accessibility data.
   - Leveraged publicly available datasets for a comprehensive analysis.
