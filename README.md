@@ -1,6 +1,6 @@
 Integrated Multi-Omics Analysis
 
-This repository contains notebooks for integrating and analyzing multi-omics data, specifically focusing on RNA-seq, ATAC-seq, and spatial transcriptomics datasets. The integration is performed using advanced computational methods to provide a comprehensive view of gene expression, chromatin accessibility, and spatial localization. The key steps and methods used across the notebooks are:
+This repository contains notebooks for integrating and analyzing multi-omics data, specifically focusing on RNA-seq, ATAC-seq, Perturb-CITE-Seq, and spatial transcriptomics datasets. The integration is performed using advanced computational methods to provide a comprehensive view of gene expression, chromatin accessibility, and spatial localization. The key steps and methods used across the notebooks are:
 
 - Melanoma Study using Perturb-CITE-Seq
   - A combined therapeutic approach targeting COL1A1 and EIF4A for melanoma treatment.
