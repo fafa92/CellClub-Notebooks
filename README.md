@@ -12,6 +12,7 @@ This repository contains notebooks for integrating and analyzing multi-omics dat
   - Over 40 custom geometrical features
   - Vision transformers (DINO) for image feature extraction
   - CellProfiler features
+    
     Used these methods to map and cluster genes based on their roles in:
     - Protein Synthesis and Quality Control
     - Cytoskeleton and Cell Structure
