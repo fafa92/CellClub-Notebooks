@@ -7,6 +7,16 @@ This repository contains notebooks for integrating and analyzing multi-omics dat
   - A multi-targeted strategy for aggressive melanoma, combining PRAME-targeted immunotherapy with PARP inhibitors and EMT/stemness pathway inhibitors.
   - The complex interplay between CD274 (PD-L1), CD58, and CD9 in different immune microenvironments.
   - The potential role of LY96 in immune evasion across multiple cancer types, including melanoma.
+
+- CRISPR Pooled imaging Screen Analysis 
+  - Over 40 custom geometrical features
+  - Vision transformers (DINO) for image feature extraction
+  - CellProfiler features
+ * Used these methods to map and cluster genes based on their roles in:
+    - Protein Synthesis and Quality Control
+    - Cytoskeleton and Cell Structure
+    - Intracellular Transport and Organelle Function
+    
 - RNA-ATAC Integration with scVI
   - Integrated RNA-seq and ATAC-seq datasets using scVI to analyze gene expression and chromatin accessibility data.
   - Leveraged publicly available datasets for a comprehensive analysis.
